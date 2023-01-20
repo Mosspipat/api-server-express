@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "name": "สตอร์เบอร์รี่",
+    "image": "https://cdn.pixabay.com/photo/2014/11/20/13/55/strawberry-539138_1280.png"
+  },
+  {
+    "id": "2",
+    "name": "สับปะรด",
+    "image": "https://www.foodgallery.co.th/wp-content/uploads/2018/06/PacRose_hero.png"
+  },
+  {
+    "id": "3",
+    "name": "แตงโม",
+    "image": "https://image.makewebeasy.net/makeweb/0/K5HN2G4Kq/DefaultData/%E0%B9%81%E0%B8%95%E0%B8%87%E0%B9%82%E0%B8%A1_removebg_preview.png"
+  }
+]
